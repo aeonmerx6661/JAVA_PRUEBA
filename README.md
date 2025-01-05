@@ -43,8 +43,8 @@ Asegúrate de tener instalados los siguientes programas:
 
 ### **1. Clonar el Repositorio**
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_PROYECTO>
+git clone https://github.com/aeonmerx6661/JAVA_PRUEBA
+cd gestion-biblioteca
 ```
 
 ### **2. Configurar la Base de Datos**
